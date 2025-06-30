@@ -1,3 +1,12 @@
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+
+<param ve-config 
+title="title"    
+source-image="link"   
+banner="link" 
+height=100
+author="author"
+layout="vertical">
 
 ### the ultimate tea
 #### spill it
