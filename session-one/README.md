@@ -17,6 +17,7 @@ Ceylon tea is both the brand of tea which is produced in Sri Lanka and a histori
 <param ve-image
 	   src="wc:Naturalis_Biodiversity_Center_-_RMNH.ART.356-Rhododendron_metternichii-Camellia_sinensis-Podocarpus_macrophyllus-Aucuba_japonica-Aphananthe_aspera-Yūshi_Ishizaki-_Cock_Blomhoff_Collection_-pencil_drawing-water_colour.jpg"
 	   caption="this is a Japanese drawing of Rhododendron metternichii - Camellia sinensis - Podocarpus macrophyllus - Aucuba japonica - Aphananthe aspera - Salix subopposita">
-	   src=wc"Naturalis_Biodiversity_Center-RMNH.ART.810-Camelliasinensis-YūshiIshizaki-CockBlomhoffCollection-pencildrawing-watercolour.jpg"
+<param ve-image
+	src="wc:Naturalis_Biodiversity_Center-RMNH.ART.810-Camelliasinensis-YūshiIshizaki-CockBlomhoffCollection-pencildrawing-watercolour.jpg"
 	   caption="this is Camellia sinensis - Yūshi Ishizaki - Cock Blomhoff Collection">
 	   
