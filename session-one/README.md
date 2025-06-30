@@ -9,4 +9,4 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Tea_production_in_Sri_Lanka)
 
-*[Camellia sinensis](https://en.wikipedia.org/wiki/Camellia_sinensis) is a species of evergreen shrub or small tree in the flowering plant family Theaceae. 
+*[Camellia sinensis](https://en.wikipedia.org/wiki/Camellia_sinensis)* is a species of evergreen shrub or small tree in the flowering plant family Theaceae. 
