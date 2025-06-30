@@ -1,15 +1,15 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-title="title"    
-source-image="link"   
-banner="link" 
+title="tea"    
+source-image="https://upload.wikimedia.org/wikipedia/commons/8/8c/Naturalis_Biodiversity_Center_-_L.2096367_-_Meerburgh%2C_N._-_Camellia_sinensis_Kuntze_-_Artwork.jpg"   
+banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cherry_Resort_inside_Temi_Tea_Garden%2C_Namchi%2C_Sikkim.jpg" 
 height=100
-author="author"
+author="Ciel Haviland"
 layout="vertical">
 
 ### the ultimate tea
-#### spill it
+
 *Kadugannawa Tea Factory*
 
 **Sri Lanka**
