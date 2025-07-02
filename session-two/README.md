@@ -17,8 +17,9 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 <param ve-compare
-               src="wc:2DU_Kenya15_(5366723263).jpg"
+               src="wc:HK_CWB_茶葉渣_used_tea_leaves_加熱_hot_乾燥_dry_吸味_October_2020_SS2_02.jpg"
                caption="Freshly picked tea leaves and dried">
 <param ve-compare
-               src="wc:HK_CWB_茶葉渣_used_tea_leaves_加熱_hot_乾燥_dry_吸味_October_2020_SS2_02.jpg">
+               src="wc:2DU_Kenya15_(5366723263).jpg">
+	   
 
