@@ -33,7 +33,8 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
 <param ve-iframe
-               src="https://archive.org/details/londongenuinetea00wbea">
+               src="https://archive.org/details/londongenuinetea00wbea"
+			   caption="A, 1820 pamphlet advertising a British tea company">
 
 	   
 
