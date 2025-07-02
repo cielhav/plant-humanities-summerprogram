@@ -13,4 +13,4 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 
 <param ve-image
 	   src="gh:cielhav/plant-humanities-summerprogram/main/session-two/Camellia_sinensis_(photo).jpeg">
-	   caption="*Camellia sinensis*">
+	   caption="Beautiful blooms of *Camellia sinensis* growing on a tea bush">
