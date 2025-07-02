@@ -21,7 +21,9 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
                caption="Freshly picked tea leaves and dried">
 <param ve-compare
                src="wc:2DU_Kenya15_(5366723263).jpg">
-			   
+
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+
 <param ve-video
                src="AzvrRD_No8">
 
