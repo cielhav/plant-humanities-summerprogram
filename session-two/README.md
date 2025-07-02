@@ -1,4 +1,4 @@
 
 
 <param ve-image
-	   src="gh:cielhav/plant-humanities-summerprogram/session-two/Camellia_sinensis_(photo).jpeg"
+	   src="gh:cielhav/plant-humanities-summerprogram/main/session-two/Camellia_sinensis_(photo).jpeg"
