@@ -5,7 +5,7 @@ title="TEA"
 source-image="https://upload.wikimedia.org/wikipedia/commons/0/0e/Naturalis_Biodiversity_Center_-_L.2096367_-_Meerburgh%2C_N._-_Camellia_sinensis_Kuntze_-_Artwork_%28cropped%29.jpg"   
 banner="https://upload.wikimedia.org/wikipedia/commons/0/0e/Naturalis_Biodiversity_Center_-_L.2096367_-_Meerburgh%2C_N._-_Camellia_sinensis_Kuntze_-_Artwork_%28cropped%29.jpg" 
 height=100
-author="Ciel Haviland, Marie, Thais Perez"
+author="Ciel Haviland, Marie Ngiam, Thais Perez"
 layout="vertical">
 
 ###Introduction
@@ -15,11 +15,16 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 	   src="gh:cielhav/plant-humanities-summerprogram/main/session-two/Camellia_sinensis_(photo).jpeg"
 	   caption="Beautiful blooms of *Camellia sinensis* growing on a tea bush">
 
-This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.[^1] This is a filler paragraph.
 <param ve-compare
                src="wc:HK_CWB_茶葉渣_used_tea_leaves_加熱_hot_乾燥_dry_吸味_October_2020_SS2_02.jpg"
                caption="Freshly picked tea leaves and dried">
 <param ve-compare
                src="wc:2DU_Kenya15_(5366723263).jpg">
+			   
+<param ve-video
+               src="code">
+
 	   
 
+[^1]: this is the first footnote for this document.
