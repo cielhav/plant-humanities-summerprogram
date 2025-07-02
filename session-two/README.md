@@ -8,6 +8,9 @@ height=100
 author="Ciel Haviland, Marie, Thais Perez"
 layout="vertical">
 
+###Introduction
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+
 <param ve-image
 	   src="gh:cielhav/plant-humanities-summerprogram/main/session-two/Camellia_sinensis_(photo).jpeg">
 	   caption="*Camellia sinensis*">
