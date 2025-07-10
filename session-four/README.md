@@ -40,8 +40,16 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 
 <param ve-map prefer-geojson
 	   center="28.07,96.93"
-	   zoom="3.16"
+	   zoom="4"
 	   caption="China">
+<param ve-map-layer geojson
+	   url="https://raw.githubusercontent.com/cielhav/plant-humanities-summerprogram/refs/heads/main/session-four/map.json"
+	   show="labels"
+	   stroke-width="0">
+<param ve-map-marker
+	   url="wc:Camellia_sinensis_flower_from_a_tea_farm.jpg"
+	   coords="37.38,127.57"
+	   circle="true"
 	   
 
 [^1]: this is the first footnote for this document.
