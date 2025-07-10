@@ -39,9 +39,9 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
 <param ve-map
-	   center="Q29520"
-	   zoom="15"
-	   caption="Dumbarton Oaks, Washington DC">
+	   center="43.7928,-72.3817"
+	   zoom="12"
+	   caption="Vermont">
 	   
 
 [^1]: this is the first footnote for this document.
