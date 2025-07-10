@@ -40,7 +40,7 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 
 <param ve-map
 	   center="43.7928,-72.3817"
-	   zoom="12"
+	   zoom="10"
 	   caption="Vermont">
 	   
 
