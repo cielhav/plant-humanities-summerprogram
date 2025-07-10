@@ -38,10 +38,10 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
-<param ve-map
-	   center="43.7928,-72.3817"
-	   zoom="10"
-	   caption="Vermont">
+<param ve-map prefer-geojson
+	   center="28.07,96.93"
+	   zoom="3.16"
+	   caption="China">
 	   
 
 [^1]: this is the first footnote for this document.
