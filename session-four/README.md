@@ -43,7 +43,7 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 	   zoom="4"
 	   caption="China">
 <param ve-map-layer geojson
-	   url="https://raw.githubusercontent.com/cielhav/plant-humanities-summerprogram/refs/heads/main/session-four/map.json"
+	   url="https://raw.githubusercontent.com/cielhav/plant-humanities-summerprogram/main/session-four/map.json"
 	   show="labels"
 	   stroke-width="0">
 <param ve-map-marker
